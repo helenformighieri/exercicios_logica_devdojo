@@ -16,7 +16,7 @@ SL = Salário Líquido
 
  */
 
-package condicionais;
+package variaveis_operadores_tiposDeDados;
 import java.util.Scanner;
 
 public class ExercicioDois {

@@ -5,7 +5,7 @@ para graus Celsius (C). Utilize a fórmula abaixo:
 C = (( F - 32)  5) / 9
  */
 
-package condicionais;
+package variaveis_operadores_tiposDeDados;
 import java.util.Scanner;
 
 public class ExercicioQuatro {

@@ -1,4 +1,4 @@
-package condicionais;
+package variaveis_operadores_tiposDeDados;
 
 import java.util.Scanner;
 

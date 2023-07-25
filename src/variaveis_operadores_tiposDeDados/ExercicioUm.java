@@ -1,15 +1,13 @@
 /*
 Baseado na fórmula abaixo escreva um programa que calcule e apresente a área de um círculo.
-
-A = R2
-
 Onde:
- 	A representa a área do círculo
-  	PI = 3.141592654
+ 	A = representa a área do círculo
+  	PI= 3.141592654
 	R = Raio do círculo (deve ser fornecido pelo usuário)
+
  */
 
-package condicionais;
+package variaveis_operadores_tiposDeDados;
 import java.util.Scanner;
 
 public class ExercicioUm {

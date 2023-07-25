@@ -1,4 +1,5 @@
-package condicionais;
+
+package variaveis_operadores_tiposDeDados;
 
 public class ExercicioTreze {
     public static void main(String[] args) {
