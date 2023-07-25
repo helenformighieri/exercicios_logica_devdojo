@@ -4,3 +4,7 @@
 
 **<h5>Link da lista de exercicios:** https://docs.google.com/document/d/15zVopnxkhl64cqZAedoF3cdYCGMXJRHvdEMa-WESzV0/edit?usp=sharing </h5>
 
+
+
+<h6>Essas foram as minhas resoluções, não foram corrigidas, com o tempo estou voltando e melhorando o que acho necessario</h6>
+
