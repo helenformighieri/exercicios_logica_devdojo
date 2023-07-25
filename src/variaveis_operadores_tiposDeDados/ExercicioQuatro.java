@@ -1,8 +1,7 @@
 /*
 Escreva um programa que realize a conversão de graus Fahrenheit (F)
 para graus Celsius (C). Utilize a fórmula abaixo:
-
-C = (( F - 32)  5) / 9
+C = (( F - 32) * 5) / 9
  */
 
 package variaveis_operadores_tiposDeDados;

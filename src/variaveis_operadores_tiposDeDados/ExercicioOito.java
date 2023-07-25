@@ -1,5 +1,13 @@
-package variaveis_operadores_tiposDeDados;
+/*
+Calcular e apresentar o valor de uma prestação em atraso, utilize a fórmula abaixo:
 
+P = VALOR + (VALOR * (TAXA/100) * TEMPO)
+
+Onde P é o valor da prestação em atraso.
+
+ */
+
+package variaveis_operadores_tiposDeDados;
 public class ExercicioOito {
     public static void main(String[] args) {
 

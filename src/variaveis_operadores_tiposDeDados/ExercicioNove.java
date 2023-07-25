@@ -1,5 +1,17 @@
-package variaveis_operadores_tiposDeDados;
+/*
+Desenvolver um programa que apresente e calcule o volume de uma caixa retangular,
+utilize a fórmula abaixo:
 
+V = C * L * A
+
+Onde:
+	V = Volume em cm3
+	C = Comprimento
+	L = Largura
+	A = Altura
+ */
+
+package variaveis_operadores_tiposDeDados;
 public class ExercicioNove {
     public static void main(String[] args) {
 

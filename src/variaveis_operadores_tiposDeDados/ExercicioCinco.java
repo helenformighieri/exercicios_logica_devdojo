@@ -1,3 +1,16 @@
+/*
+Escreva uma rotina capaz de calcular e apresentar o valor do volume de uma lata de óleo,
+utilize a fórmula abaixo.
+
+V = (PI * (R * R)) * A
+
+Onde:
+	V = Volume
+	PI = 3.141592654
+	R = Raio da circunferência da lata
+	A = Altura da lata
+
+ */
 
 
 package variaveis_operadores_tiposDeDados;

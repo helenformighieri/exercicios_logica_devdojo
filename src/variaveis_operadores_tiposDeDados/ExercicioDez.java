@@ -1,5 +1,9 @@
-package variaveis_operadores_tiposDeDados;
+/*
+Fazer a leitura de um valor numérico inteiro e apresentar o valor do número elevado ao quadrado,
+ao cubo e a 10, apresentar também a soma total dos três resultados anteriores.
+ */
 
+package variaveis_operadores_tiposDeDados;
 public class ExercicioDez {
     public static void main(String[] args) {
 

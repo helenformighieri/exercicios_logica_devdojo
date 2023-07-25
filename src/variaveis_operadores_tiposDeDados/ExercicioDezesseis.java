@@ -1,5 +1,15 @@
-package variaveis_operadores_tiposDeDados;
+/*
+Elabore uma rotina que apresente o valor do volume de uma esfera, utilize a fórmula abaixo:
 
+V = (4 / 3) * PI * (R * R * R)
+
+Onde:
+V = Volume
+PI= 3.141592654
+R = Raio
+ */
+
+package variaveis_operadores_tiposDeDados;
 public class ExercicioDezesseis {
     public static void main(String[] args) {
 
